@@ -25,6 +25,6 @@ else {
 
 To use the bookmarklet:
 
-    Naviagate to a Wikipedia page.
-    Click on the bookmarklet on the your bookmarks toolbar. The tag will be displayed in a pop-up with a # sign.
-    If you want to copy the tag to the clipboard, click on OK.
+* Naviagate to a Wikipedia page.
+* Click on the bookmarklet on the your bookmarks toolbar. The tag will be displayed in a pop-up with a # sign.
+* If you want to copy the tag to the clipboard, click on OK.
